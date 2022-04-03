@@ -49,6 +49,7 @@ body {
     background-color: var(--white-color);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    text-align: justify;
 }
 
 a {
@@ -76,7 +77,6 @@ h6 {
 
 p {
     margin: 0;
-    text-align: justify;
 }
 
 img {
